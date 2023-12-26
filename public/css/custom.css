@@ -1,0 +1,30 @@
+body {
+    color: white;
+}
+
+.editor-icons {
+    border: none;
+    background: no-repeat;
+    color: white;
+}
+
+.bg-dark {
+    background-color: rgb(32, 33, 39) !important;
+}
+
+.bg-secondary {
+    background-color: rgb(56, 58, 66) !important;
+}
+
+#text-input {
+    border: none;
+    outline: none;
+}
+
+.h-70 {
+    height: 70%;
+}
+
+.bg-demo {
+    background-color: #e1e1e1;
+}
